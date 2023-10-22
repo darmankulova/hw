@@ -2,15 +2,13 @@
 // for (let number = 2; number <= 50; number++) {
 //     let isPrime = true;
   
-//     // Проверяем, является ли number простым числом
 //     for (let i = 2; i < number; i++) {
 //       if (number % i === 0) {
 //         isPrime = false;
 //         break;
 //       }
 //     }
-  
-//     // Если number простое, выводим его
+
 //     if (isPrime) {
 //       console.log(number);
 //     }
